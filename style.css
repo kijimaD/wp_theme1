@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/*
+Theme Name: test1
+Theme URI: https://a9ne.com
+Description: This is Bootstrap test theme.
+Author: Daigo Kijima
+Author URI:　http://a9ne.com
+Version:1.0
+*/
+
+@import url(css/bootstrap.min.css);

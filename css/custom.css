@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+/* ページ内リンクの位置調整 */
+section {
+margin-top: -60px;
+padding-top: 60px;
+}
+
+#content > h2{
+padding: .25em 0 .25em .75em;
+border-left: 6px solid #017AFF;
+}
+#content > h3{
+margin-left: 1em;
+padding: 0.1em 0 0.1em .75em;
+border-left:5px double #6C757D;
+}
