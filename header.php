@@ -9,7 +9,6 @@
   <!-- Bootstrap CSS -->
   <link href="<?php bloginfo('stylesheet_url'); ?>" rel="stylesheet" />
 
-
   <!-- 追加CSS -->
   <link href="<?php echo get_template_directory_uri();?>/css/custom.css" type="text/css" rel="stylesheet" />
 
